@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "chefName": "John Smith",
+    "chefImageURL": "https://example.com/chef1.jpg",
+    "yearsOfExperience": 10,
+    "numOfRecipes": 50,
+    "numOfLikes": 1000,
+    "shortBio": "Passionate chef with a love for creating delicious and unique dishes.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe1.jpg",
+        "ingredients": [
+          "Chicken breast",
+          "Garlic",
+          "Olive oil",
+          "Lemon",
+          "Salt"
+        ],
+        "cookingMethod": "1. Marinate chicken with minced garlic, lemon juice, and salt. 2. Heat olive oil in a pan. 3. Cook chicken until golden brown. 4. Serve hot.",
+        "rating": 4.5
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe2.jpg",
+        "ingredients": [
+          "Salmon fillet",
+          "Dill",
+          "Lime",
+          "Butter",
+          "Black pepper"
+        ],
+        "cookingMethod": "1. Preheat oven to 400°F. 2. Season salmon with salt, pepper, and dill. 3. Place salmon on a baking sheet. 4. Bake for 12-15 minutes. 5. Squeeze lime juice and serve.",
+        "rating": 4.8
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe3.jpg",
+        "ingredients": ["Pasta", "Tomatoes", "Basil", "Garlic", "Olive oil"],
+        "cookingMethod": "1. Cook pasta in boiling water until al dente. 2. In a pan, sauté garlic in olive oil. 3. Add diced tomatoes and cook for 5 minutes. 4. Toss cooked pasta with the tomato sauce. 5. Garnish with basil leaves.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Emily Johnson",
+    "chefImageURL": "https://example.com/chef2.jpg",
+    "yearsOfExperience": 8,
+    "numOfRecipes": 40,
+    "numOfLikes": 800,
+    "shortBio": "Innovative chef specializing in fusion cuisine.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe4.jpg",
+        "ingredients": [
+          "Beef tenderloin",
+          "Soy sauce",
+          "Ginger",
+          "Sesame oil",
+          "Sugar"
+        ],
+        "cookingMethod": "1. Marinate beef with soy sauce, ginger, sesame oil, and sugar. 2. Heat a skillet and sear the beef on all sides. 3. Transfer to the oven and roast for desired doneness. 4. Let it rest before slicing. 5. Serve with sauce.",
+        "rating": 4.7
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe5.jpg",
+        "ingredients": ["Quinoa", "Cucumber", "Tomato", "Red onion", "Lemon"],
+        "cookingMethod": "1. Cook quinoa according to package instructions and let it cool. 2. Dice cucumber, tomato, and red onion. 3. Mix the vegetables with quinoa. 4. Squeeze lemon juice over the salad. 5. Season with salt and pepper.",
+        "rating": 4.3
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe6.jpg",
+        "ingredients": [
+          "Shrimp",
+          "Coconut milk",
+          "Red curry paste",
+          "Bamboo shoots",
+          "Bell pepper"
+        ],
+        "cookingMethod": "1. In a pan, heat coconut milk and red curry paste. 2. Add shrimp, bamboo shoots, and bell pepper. 3. Simmer until shrimp is cooked. 4. Serve with steamed rice.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Sarah Thompson",
+    "chefImageURL": "https://example.com/chef3.jpg",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 60,
+    "numOfLikes": 1200,
+    "shortBio": "Experienced chef specializing in French cuisine.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe7.jpg",
+        "ingredients": [
+          "Filet mignon",
+          "Red wine",
+          "Shallots",
+          "Butter",
+          "Thyme"
+        ],
+        "cookingMethod": "1. Season filet mignon with salt and pepper. 2. Sear in a hot skillet with butter. 3. Transfer to the oven and roast to desired doneness. 4. In the same skillet, sauté shallots with thyme. 5. Deglaze with red wine and reduce. 6. Serve the steak with the sauce.",
+        "rating": 4.9
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe8.jpg",
+        "ingredients": [
+          "Ratatouille vegetables",
+          "Olive oil",
+          "Garlic",
+          "Herbs de Provence",
+          "Tomato sauce"
+        ],
+        "cookingMethod": "1. Slice and sauté the ratatouille vegetables in olive oil. 2. Add minced garlic and herbs de Provence. 3. Pour in tomato sauce and simmer. 4. Serve as a side dish or over pasta.",
+        "rating": 4.4
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe9.jpg",
+        "ingredients": [
+          "Creme brulee",
+          "Egg yolks",
+          "Vanilla bean",
+          "Sugar",
+          "Heavy cream"
+        ],
+        "cookingMethod": "1. Preheat oven to 300°F. 2. Whisk egg yolks, sugar, and vanilla bean seeds. 3. Heat heavy cream and gradually add to the egg mixture. 4. Pour into ramekins and bake in a water bath. 5. Chill and sprinkle sugar on top. 6. Caramelize the sugar with a torch before serving.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Michael Chen",
+    "chefImageURL": "https://example.com/chef4.jpg",
+    "yearsOfExperience": 6,
+    "numOfRecipes": 30,
+    "numOfLikes": 600,
+    "shortBio": "Passionate chef with expertise in Asian fusion cuisine.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe10.jpg",
+        "ingredients": [
+          "Miso-marinated cod",
+          "Sake",
+          "Mirin",
+          "Soy sauce",
+          "Ginger"
+        ],
+        "cookingMethod": "1. Marinate cod in miso, sake, mirin, soy sauce, and grated ginger. 2. Grill or broil until cooked through. 3. Serve with steamed rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe11.jpg",
+        "ingredients": [
+          "Pad Thai noodles",
+          "Shrimp",
+          "Tofu",
+          "Bean sprouts",
+          "Peanuts"
+        ],
+        "cookingMethod": "1. Soak Pad Thai noodles in hot water until softened. 2. Stir-fry shrimp and tofu in a pan. 3. Add drained noodles, bean sprouts, and sauce. 4. Toss until heated through. 5. Sprinkle with crushed peanuts and serve.",
+        "rating": 4.2
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe12.jpg",
+        "ingredients": [
+          "Chicken satay",
+          "Peanut sauce",
+          "Cucumber",
+          "Red onion",
+          "Lime"
+        ],
+        "cookingMethod": "1. Marinate chicken in a mixture of spices. 2. Thread onto skewers and grill or broil until cooked. 3. Serve with peanut sauce, sliced cucumber, red onion, and a squeeze of lime.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Sophia Rodriguez",
+    "chefImageURL": "https://example.com/chef5.jpg",
+    "yearsOfExperience": 9,
+    "numOfRecipes": 45,
+    "numOfLikes": 900,
+    "shortBio": "Creative chef known for her innovative desserts.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe13.jpg",
+        "ingredients": [
+          "Chocolate lava cake",
+          "Dark chocolate",
+          "Butter",
+          "Eggs",
+          "Sugar"
+        ],
+        "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar until pale. 3. Combine the chocolate mixture with the egg mixture. 4. Pour into greased ramekins. 5. Bake at 425°F for 12-15 minutes. 6. Serve warm with ice cream.",
+        "rating": 4.8
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe14.jpg",
+        "ingredients": [
+          "Strawberry shortcake",
+          "Sponge cake",
+          "Whipped cream",
+          "Strawberries",
+          "Powdered sugar"
+        ],
+        "cookingMethod": "1. Slice sponge cake and layer with whipped cream and sliced strawberries. 2. Repeat for multiple layers. 3. Top with more whipped cream and strawberries. 4. Dust with powdered sugar before serving.",
+        "rating": 4.3
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe15.jpg",
+        "ingredients": [
+          "Lemon tart",
+          "Shortcrust pastry",
+          "Eggs",
+          "Sugar",
+          "Lemons"
+        ],
+        "cookingMethod": "1. Blind bake the shortcrust pastry. 2. Whisk eggs, sugar, and lemon juice. 3. Pour into the baked pastry shell. 4. Bake until set. 5. Chill before serving.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Sophia Rodriguez",
+    "chefImageURL": "https://example.com/chef5.jpg",
+    "yearsOfExperience": 9,
+    "numOfRecipes": 45,
+    "numOfLikes": 900,
+    "shortBio": "Creative chef known for her innovative desserts.",
+    "recipes": [
+      {
+        "recipeImageURL": "https://example.com/recipe13.jpg",
+        "ingredients": [
+          "Chocolate lava cake",
+          "Dark chocolate",
+          "Butter",
+          "Eggs",
+          "Sugar"
+        ],
+        "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar until pale. 3. Combine the chocolate mixture with the egg mixture. 4. Pour into greased ramekins. 5. Bake at 425°F for 12-15 minutes. 6. Serve warm with ice cream.",
+        "rating": 4.8
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe14.jpg",
+        "ingredients": [
+          "Strawberry shortcake",
+          "Sponge cake",
+          "Whipped cream",
+          "Strawberries",
+          "Powdered sugar"
+        ],
+        "cookingMethod": "1. Slice sponge cake and layer with whipped cream and sliced strawberries. 2. Repeat for multiple layers. 3. Top with more whipped cream and strawberries. 4. Dust with powdered sugar before serving.",
+        "rating": 4.3
+      },
+      {
+        "recipeImageURL": "https://example.com/recipe15.jpg",
+        "ingredients": [
+          "Lemon tart",
+          "Shortcrust pastry",
+          "Eggs",
+          "Sugar",
+          "Lemons"
+        ],
+        "cookingMethod": "1. Blind bake the shortcrust pastry. 2. Whisk eggs, sugar, and lemon juice. 3. Pour into the baked pastry shell. 4. Bake until set. 5. Chill before serving.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
