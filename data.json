@@ -2,7 +2,7 @@
   {
     "id": 1,
     "chefName": "John Smith",
-    "chefImageURL": "https://example.com/chef1.jpg",
+    "chefImageURL": "https://i.ibb.co/w0TnPp7/istockphoto-664234544-1024x1024.jpg",
     "yearsOfExperience": 10,
     "numOfRecipes": 50,
     "numOfLikes": 1000,
@@ -43,7 +43,7 @@
   {
     "id": 2,
     "chefName": "Emily Johnson",
-    "chefImageURL": "https://example.com/chef2.jpg",
+    "chefImageURL": "https://i.ibb.co/HXzQVZy/istockphoto-1210630139-1024x1024.jpg",
     "yearsOfExperience": 8,
     "numOfRecipes": 40,
     "numOfLikes": 800,
@@ -84,7 +84,7 @@
   {
     "id": 3,
     "chefName": "Sarah Thompson",
-    "chefImageURL": "https://example.com/chef3.jpg",
+    "chefImageURL": "https://i.ibb.co/s23pHpt/istockphoto-1461208291-1024x1024.jpg",
     "yearsOfExperience": 12,
     "numOfRecipes": 60,
     "numOfLikes": 1200,
@@ -131,7 +131,7 @@
   {
     "id": 4,
     "chefName": "Michael Chen",
-    "chefImageURL": "https://example.com/chef4.jpg",
+    "chefImageURL": "https://i.ibb.co/phzTR41/istockphoto-1171653428-1024x1024.jpg",
     "yearsOfExperience": 6,
     "numOfRecipes": 30,
     "numOfLikes": 600,
@@ -178,7 +178,7 @@
   {
     "id": 5,
     "chefName": "Sophia Rodriguez",
-    "chefImageURL": "https://example.com/chef5.jpg",
+    "chefImageURL": "https://i.ibb.co/Xtz0Csb/istockphoto-1340469899-1024x1024.jpg",
     "yearsOfExperience": 9,
     "numOfRecipes": 45,
     "numOfLikes": 900,
@@ -225,7 +225,7 @@
   {
     "id": 6,
     "chefName": "Sophia Rodriguez",
-    "chefImageURL": "https://example.com/chef5.jpg",
+    "chefImageURL": "https://i.ibb.co/Xtz0Csb/istockphoto-1340469899-1024x1024.jpg",
     "yearsOfExperience": 9,
     "numOfRecipes": 45,
     "numOfLikes": 900,
