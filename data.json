@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefName": "John Smith",
+    "chefName": "Singzing Ping",
     "chefImageURL": "https://i.ibb.co/w0TnPp7/istockphoto-664234544-1024x1024.jpg",
     "yearsOfExperience": 10,
     "numOfRecipes": 50,
@@ -9,32 +9,44 @@
     "shortBio": "Passionate chef with a love for creating delicious and unique dishes.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe1.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/yfmfZ3R/istockphoto-531469196-1024x1024.jpg",
+        "recipeName": "Kung Pao Chicken",
         "ingredients": [
-          "Chicken breast",
-          "Garlic",
-          "Olive oil",
-          "Lemon",
-          "Salt"
+          "Chicken breast ",
+          "Garlic ",
+          "Olive oil ",
+          "Lemon ",
+          "Salt "
         ],
         "cookingMethod": "1. Marinate chicken with minced garlic, lemon juice, and salt. 2. Heat olive oil in a pan. 3. Cook chicken until golden brown. 4. Serve hot.",
         "rating": 4.5
       },
       {
-        "recipeImageURL": "https://example.com/recipe2.jpg",
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/j5q88F8/louis-hansel-oy-Uq-UV1-Q0-Zg-unsplash.jpg",
+        "recipeName": "Sweet and Sour Pork",
         "ingredients": [
-          "Salmon fillet",
-          "Dill",
-          "Lime",
-          "Butter",
-          "Black pepper"
+          "Salmon fillet ",
+          "Dill ",
+          "Lime ",
+          "Butter ",
+          "Black pepper "
         ],
         "cookingMethod": "1. Preheat oven to 400°F. 2. Season salmon with salt, pepper, and dill. 3. Place salmon on a baking sheet. 4. Bake for 12-15 minutes. 5. Squeeze lime juice and serve.",
         "rating": 4.8
       },
       {
-        "recipeImageURL": "https://example.com/recipe3.jpg",
-        "ingredients": ["Pasta", "Tomatoes", "Basil", "Garlic", "Olive oil"],
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/sQ6253R/vernon-raineil-cenzon-G6fm-W79llf-Y-unsplash.jpg",
+        "recipeName": "Mapo Tofu",
+        "ingredients": [
+          "Pasta ",
+          "Tomatoes ",
+          "Basil ",
+          "Garlic ",
+          "Olive oil "
+        ],
         "cookingMethod": "1. Cook pasta in boiling water until al dente. 2. In a pan, sauté garlic in olive oil. 3. Add diced tomatoes and cook for 5 minutes. 4. Toss cooked pasta with the tomato sauce. 5. Garnish with basil leaves.",
         "rating": 4.2
       }
@@ -42,7 +54,7 @@
   },
   {
     "id": 2,
-    "chefName": "Emily Johnson",
+    "chefName": "Kimzong Yong",
     "chefImageURL": "https://i.ibb.co/HXzQVZy/istockphoto-1210630139-1024x1024.jpg",
     "yearsOfExperience": 8,
     "numOfRecipes": 40,
@@ -50,31 +62,43 @@
     "shortBio": "Innovative chef specializing in fusion cuisine.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe4.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/996Bdv8/brooke-lark-6-CDSKv7rf-CU-unsplash.jpg",
+        "recipeName": "Mapo Tofu",
         "ingredients": [
-          "Beef tenderloin",
-          "Soy sauce",
-          "Ginger",
-          "Sesame oil",
-          "Sugar"
+          "Beef tenderloin ",
+          "Soy sauce ",
+          "Ginger ",
+          "Sesame oil ",
+          "Sugar "
         ],
         "cookingMethod": "1. Marinate beef with soy sauce, ginger, sesame oil, and sugar. 2. Heat a skillet and sear the beef on all sides. 3. Transfer to the oven and roast for desired doneness. 4. Let it rest before slicing. 5. Serve with sauce.",
         "rating": 4.7
       },
       {
-        "recipeImageURL": "https://example.com/recipe5.jpg",
-        "ingredients": ["Quinoa", "Cucumber", "Tomato", "Red onion", "Lemon"],
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/rv48STb/istockphoto-1487674551-1024x1024.jpg",
+        "recipeName": "Sweet and Sour Pork",
+        "ingredients": [
+          "Quinoa ",
+          "Cucumber ",
+          "Tomato ",
+          "Red onion ",
+          "Lemon "
+        ],
         "cookingMethod": "1. Cook quinoa according to package instructions and let it cool. 2. Dice cucumber, tomato, and red onion. 3. Mix the vegetables with quinoa. 4. Squeeze lemon juice over the salad. 5. Season with salt and pepper.",
         "rating": 4.3
       },
       {
-        "recipeImageURL": "https://example.com/recipe6.jpg",
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/Y3Rjbfx/stacey-doyle-d-Odt-Mzvjoc4-unsplash.jpg",
+        "recipeName": "Kung Pao Chicken",
         "ingredients": [
-          "Shrimp",
-          "Coconut milk",
-          "Red curry paste",
-          "Bamboo shoots",
-          "Bell pepper"
+          "Shrimp ",
+          "Coconut milk ",
+          "Red curry paste ",
+          "Bamboo shoots ",
+          "Bell pepper "
         ],
         "cookingMethod": "1. In a pan, heat coconut milk and red curry paste. 2. Add shrimp, bamboo shoots, and bell pepper. 3. Simmer until shrimp is cooked. 4. Serve with steamed rice.",
         "rating": 4.6
@@ -83,7 +107,7 @@
   },
   {
     "id": 3,
-    "chefName": "Sarah Thompson",
+    "chefName": "Mao Setung",
     "chefImageURL": "https://i.ibb.co/s23pHpt/istockphoto-1461208291-1024x1024.jpg",
     "yearsOfExperience": 12,
     "numOfRecipes": 60,
@@ -91,37 +115,43 @@
     "shortBio": "Experienced chef specializing in French cuisine.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe7.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/YhzRVcj/amirali-mirhashemian-e-Ry-Mytu-T0yg-unsplash.jpg",
+        "recipeName": "Szechuan Beef",
         "ingredients": [
-          "Filet mignon",
-          "Red wine",
-          "Shallots",
-          "Butter",
-          "Thyme"
+          "Filet mignon ",
+          "Red wine ",
+          "Shallots ",
+          "Butter ",
+          "Thyme "
         ],
         "cookingMethod": "1. Season filet mignon with salt and pepper. 2. Sear in a hot skillet with butter. 3. Transfer to the oven and roast to desired doneness. 4. In the same skillet, sauté shallots with thyme. 5. Deglaze with red wine and reduce. 6. Serve the steak with the sauce.",
         "rating": 4.9
       },
       {
-        "recipeImageURL": "https://example.com/recipe8.jpg",
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/9tmHHsD/ke-vin-sz-QFi-GZH8w-U-unsplash.jpg",
+        "recipeName": "Egg Fried Rice",
         "ingredients": [
-          "Ratatouille vegetables",
-          "Olive oil",
-          "Garlic",
-          "Herbs de Provence",
-          "Tomato sauce"
+          "Ratatouille vegetables ",
+          "Olive oil ",
+          "Garlic ",
+          "Herbs de Provence ",
+          "Tomato sauce "
         ],
         "cookingMethod": "1. Slice and sauté the ratatouille vegetables in olive oil. 2. Add minced garlic and herbs de Provence. 3. Pour in tomato sauce and simmer. 4. Serve as a side dish or over pasta.",
         "rating": 4.4
       },
       {
-        "recipeImageURL": "https://example.com/recipe9.jpg",
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/xhrJMsZ/istockphoto-1396312249-1024x1024.jpg",
+        "recipeName": "Szechuan Chicken",
         "ingredients": [
-          "Creme brulee",
-          "Egg yolks",
-          "Vanilla bean",
-          "Sugar",
-          "Heavy cream"
+          "Creme brulee ",
+          "Egg yolks ",
+          "Vanilla bean ",
+          "Sugar ",
+          "Heavy cream "
         ],
         "cookingMethod": "1. Preheat oven to 300°F. 2. Whisk egg yolks, sugar, and vanilla bean seeds. 3. Heat heavy cream and gradually add to the egg mixture. 4. Pour into ramekins and bake in a water bath. 5. Chill and sprinkle sugar on top. 6. Caramelize the sugar with a torch before serving.",
         "rating": 4.7
@@ -130,7 +160,7 @@
   },
   {
     "id": 4,
-    "chefName": "Michael Chen",
+    "chefName": "Ming Chen",
     "chefImageURL": "https://i.ibb.co/phzTR41/istockphoto-1171653428-1024x1024.jpg",
     "yearsOfExperience": 6,
     "numOfRecipes": 30,
@@ -138,37 +168,43 @@
     "shortBio": "Passionate chef with expertise in Asian fusion cuisine.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe10.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/PM4vcqS/lily-banse-YHSwy6uqvk-unsplash.jpg",
+        "recipeName": "Szechuan Beef",
         "ingredients": [
-          "Miso-marinated cod",
-          "Sake",
-          "Mirin",
-          "Soy sauce",
-          "Ginger"
+          "Miso-marinated cod ",
+          "Sake ",
+          "Mirin ",
+          "Soy sauce ",
+          "Ginger "
         ],
         "cookingMethod": "1. Marinate cod in miso, sake, mirin, soy sauce, and grated ginger. 2. Grill or broil until cooked through. 3. Serve with steamed rice and vegetables.",
         "rating": 4.5
       },
       {
-        "recipeImageURL": "https://example.com/recipe11.jpg",
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/XygpgB7/claudio-schwarz-cgcte-FH-azk-unsplash.jpg",
+        "recipeName": "Szechuan Roast",
         "ingredients": [
-          "Pad Thai noodles",
-          "Shrimp",
-          "Tofu",
-          "Bean sprouts",
-          "Peanuts"
+          "Pad Thai noodles ",
+          "Shrimp ",
+          "Tofu ",
+          "Bean sprouts ",
+          "Peanuts "
         ],
         "cookingMethod": "1. Soak Pad Thai noodles in hot water until softened. 2. Stir-fry shrimp and tofu in a pan. 3. Add drained noodles, bean sprouts, and sauce. 4. Toss until heated through. 5. Sprinkle with crushed peanuts and serve.",
         "rating": 4.2
       },
       {
-        "recipeImageURL": "https://example.com/recipe12.jpg",
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/f20Yqrm/magda-vrabetz-70e-y6e-Fq-Qs-unsplash.jpg",
+        "recipeName": "Szechuan mutton",
         "ingredients": [
-          "Chicken satay",
-          "Peanut sauce",
-          "Cucumber",
-          "Red onion",
-          "Lime"
+          "Chicken satay ",
+          "Peanut sauce ",
+          "Cucumber ",
+          "Red onion ",
+          "Lime "
         ],
         "cookingMethod": "1. Marinate chicken in a mixture of spices. 2. Thread onto skewers and grill or broil until cooked. 3. Serve with peanut sauce, sliced cucumber, red onion, and a squeeze of lime.",
         "rating": 4.6
@@ -177,7 +213,7 @@
   },
   {
     "id": 5,
-    "chefName": "Sophia Rodriguez",
+    "chefName": "SingJey Abey",
     "chefImageURL": "https://i.ibb.co/Xtz0Csb/istockphoto-1340469899-1024x1024.jpg",
     "yearsOfExperience": 9,
     "numOfRecipes": 45,
@@ -185,37 +221,43 @@
     "shortBio": "Creative chef known for her innovative desserts.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe13.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/f20Yqrm/magda-vrabetz-70e-y6e-Fq-Qs-unsplash.jpg",
+        "recipeName": "Mapo Tofu",
         "ingredients": [
-          "Chocolate lava cake",
-          "Dark chocolate",
-          "Butter",
-          "Eggs",
-          "Sugar"
+          "Chocolate lava cake ",
+          "Dark chocolate ",
+          "Butter ",
+          "Eggs ",
+          "Sugar "
         ],
         "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar until pale. 3. Combine the chocolate mixture with the egg mixture. 4. Pour into greased ramekins. 5. Bake at 425°F for 12-15 minutes. 6. Serve warm with ice cream.",
         "rating": 4.8
       },
       {
-        "recipeImageURL": "https://example.com/recipe14.jpg",
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/XygpgB7/claudio-schwarz-cgcte-FH-azk-unsplash.jpg",
+        "recipeName": "Chapo Tofu",
         "ingredients": [
-          "Strawberry shortcake",
-          "Sponge cake",
-          "Whipped cream",
-          "Strawberries",
-          "Powdered sugar"
+          "Strawberry shortcake ",
+          "Sponge cake ",
+          "Whipped cream ",
+          "Strawberries ",
+          "Powdered sugar "
         ],
         "cookingMethod": "1. Slice sponge cake and layer with whipped cream and sliced strawberries. 2. Repeat for multiple layers. 3. Top with more whipped cream and strawberries. 4. Dust with powdered sugar before serving.",
         "rating": 4.3
       },
       {
-        "recipeImageURL": "https://example.com/recipe15.jpg",
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/PM4vcqS/lily-banse-YHSwy6uqvk-unsplash.jpg",
+        "recipeName": "Sizling Tofu",
         "ingredients": [
-          "Lemon tart",
-          "Shortcrust pastry",
-          "Eggs",
-          "Sugar",
-          "Lemons"
+          "Lemon tart ",
+          "Shortcrust pastry ",
+          "Eggs ",
+          "Sugar ",
+          "Lemons "
         ],
         "cookingMethod": "1. Blind bake the shortcrust pastry. 2. Whisk eggs, sugar, and lemon juice. 3. Pour into the baked pastry shell. 4. Bake until set. 5. Chill before serving.",
         "rating": 4.7
@@ -224,44 +266,50 @@
   },
   {
     "id": 6,
-    "chefName": "Sophia Rodriguez",
-    "chefImageURL": "https://i.ibb.co/Xtz0Csb/istockphoto-1340469899-1024x1024.jpg",
+    "chefName": "Jung Hung",
+    "chefImageURL": "https://i.ibb.co/ZWvh4v6/istockphoto-1393223576-1024x1024.jpg",
     "yearsOfExperience": 9,
     "numOfRecipes": 45,
     "numOfLikes": 900,
     "shortBio": "Creative chef known for her innovative desserts.",
     "recipes": [
       {
-        "recipeImageURL": "https://example.com/recipe13.jpg",
+        "_id": "a",
+        "recipeImageURL": "https://i.ibb.co/fn8SZt2/sam-moghadam-khamseh-P1-AG2-Y0m-C-o-unsplash.jpg",
+        "recipeName": "Szechuan Beef",
         "ingredients": [
-          "Chocolate lava cake",
-          "Dark chocolate",
-          "Butter",
-          "Eggs",
+          "Chocolate lava cake ",
+          "Dark chocolate ",
+          "Butter ",
+          "Eggs ",
           "Sugar"
         ],
         "cookingMethod": "1. Melt chocolate and butter. 2. Whisk eggs and sugar until pale. 3. Combine the chocolate mixture with the egg mixture. 4. Pour into greased ramekins. 5. Bake at 425°F for 12-15 minutes. 6. Serve warm with ice cream.",
         "rating": 4.8
       },
       {
-        "recipeImageURL": "https://example.com/recipe14.jpg",
+        "_id": "b",
+        "recipeImageURL": "https://i.ibb.co/XygpgB7/claudio-schwarz-cgcte-FH-azk-unsplash.jpg",
+        "recipeName": "Sweet and Sour Pork",
         "ingredients": [
-          "Strawberry shortcake",
-          "Sponge cake",
-          "Whipped cream",
-          "Strawberries",
+          "Strawberry shortcake ",
+          "Sponge cake ",
+          "Whipped cream ",
+          "Strawberries ",
           "Powdered sugar"
         ],
         "cookingMethod": "1. Slice sponge cake and layer with whipped cream and sliced strawberries. 2. Repeat for multiple layers. 3. Top with more whipped cream and strawberries. 4. Dust with powdered sugar before serving.",
         "rating": 4.3
       },
       {
-        "recipeImageURL": "https://example.com/recipe15.jpg",
+        "_id": "c",
+        "recipeImageURL": "https://i.ibb.co/6gw5JpL/istockphoto-622185412-1024x1024.jpg",
+        "recipeName": "Szechuan mutton",
         "ingredients": [
-          "Lemon tart",
-          "Shortcrust pastry",
-          "Eggs",
-          "Sugar",
+          "Lemon tart ",
+          "Shortcrust pastry ",
+          "Eggs ",
+          "Sugar ",
           "Lemons"
         ],
         "cookingMethod": "1. Blind bake the shortcrust pastry. 2. Whisk eggs, sugar, and lemon juice. 3. Pour into the baked pastry shell. 4. Bake until set. 5. Chill before serving.",
